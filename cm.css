@@ -11,6 +11,9 @@
     border-radius: 8px;
     text-decoration: none;
     cursor: pointer;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .phone {
@@ -22,6 +25,9 @@
     border-radius: 8px;
     text-decoration: none;
     cursor: pointer;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .meet {
@@ -32,4 +38,29 @@
     border-radius: 8px;
     text-decoration: none;
     cursor: pointer;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
 }
+
+.titulo {
+    font-size: 52px;
+    font-weight: bold;
+    margin: 13px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.texto {
+    font-size: 20px;
+    margin: 30px;
+    text-align: center;
+}
+
+.footer {
+    margin-top: 60px;
+    font-size: 14px;
+    text-align: center;
+}
+
+
