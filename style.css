@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(255, 255, 168);
+}
+
+.phone {
+display:block;
+background: #dc3545;
+color:white;
+padding:15px;
+text-align:center;
+font-size:18px;
+border-radius:8px;
+text-decoration:none;
+}
+
+.WhatsApp {
+display:block;
+background:#25D366;
+color:white;
+padding:15px;
+margin-bottom:10px;
+text-align:center;
+font-size:18px;
+border-radius:8px;
+text-decoration:none;
+}
+
